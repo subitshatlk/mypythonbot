@@ -1,1 +1,1 @@
-# mypythonbot
+# mybot
